@@ -5,6 +5,8 @@
 /include/
 /lib/
 /templates/
+/db
+/dbd
 
 # Local configuration files
 /configure/*.local

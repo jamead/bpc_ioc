@@ -27,8 +27,8 @@ BPC_SRCS += BPC_registerRecordDeviceDriver.cpp
 BPC_SRCS += StatSub.c
 BPC_SRCS += DecodeSub1.c
 BPC_SRCS += DecodeSub2.c
-BPC_SRCS += Tester.c
-BPC_SRCS += Tester2.c
+#BPC_SRCS += Tester.c
+#BPC_SRCS += Tester2.c
 
 # Build the main IOC entry point on workstation OSs.
 BPC_SRCS_DEFAULT += BPCMain.cpp
